@@ -1,2 +1,7 @@
 .tgcloud/
 node_modules/
+.import-progress/
+.env
+.env.*
+!.env.example
+*.log

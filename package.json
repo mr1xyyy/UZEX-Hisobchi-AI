@@ -1,12 +1,21 @@
 {
   "name": "UzexHisobchiBot",
   "private": true,
+  "type": "module",
   "devDependencies": {
     "@tgcloud/cli": "^0.2.0"
   },
   "scripts": {
     "deploy": "tgcloud push",
     "status": "tgcloud status",
-    "run": "tgcloud run"
+    "run": "tgcloud run",
+    "migrate": "tgcloud migrate",
+    "import:data": "node scripts/import_data.js",
+    "import:neon": "node scripts/import_neon.js",
+    "neon:check": "node scripts/import_neon.js --check",
+    "neon:configure": "node scripts/import_neon.js --configure",
+    "bot:check": "node scripts/check_bot.js",
+    "bot:commands": "node scripts/setup_commands.js",
+    "test": "node --test --test-isolation=none"
   }
 }

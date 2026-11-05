@@ -1,0 +1,66 @@
+{
+  "backend": "neon",
+  "results": [
+    {
+      "name": "2024 top buyer",
+      "group_value": "983531029",
+      "group_name": "\"Zoket Invest\" OK",
+      "value": 1169958734081.1711,
+      "matched": 2052,
+      "unit_count": 2,
+      "unit_label": "килограмм",
+      "missing_unit": 0,
+      "product_count": 142,
+      "missing_amount": 0,
+      "invalid_volume": 0,
+      "global_missing": 0,
+      "global_units": 7
+    },
+    {
+      "name": "2025 Samarqand wheat tonnes",
+      "matched": 143,
+      "unit_count": 1,
+      "unit_label": "тонна",
+      "missing_unit": 0,
+      "product_count": 2,
+      "missing_amount": 0,
+      "invalid_volume": 0,
+      "value": 36943
+    },
+    {
+      "name": "2025 grade-1 raw cotton UZS/kg",
+      "matched": 13407,
+      "unit_count": 1,
+      "unit_label": "килограмм",
+      "missing_unit": 0,
+      "product_count": 68,
+      "missing_amount": 0,
+      "invalid_volume": 0,
+      "value": 9755.481207453344
+    },
+    {
+      "name": "2025 export amount share",
+      "matched": 107678,
+      "unit_count": 7,
+      "unit_label": "кв.метр",
+      "missing_unit": 0,
+      "product_count": 484,
+      "missing_amount": 0,
+      "invalid_volume": 0,
+      "numerator_value": 2533979960438.597,
+      "denominator_value": 52060836360057.22,
+      "value": 4.8673439337650555
+    },
+    {
+      "name": "2023 Namangan count",
+      "matched": 11346,
+      "unit_count": 5,
+      "unit_label": "килограмм",
+      "missing_unit": 0,
+      "product_count": 50,
+      "missing_amount": 0,
+      "invalid_volume": 0,
+      "value": 11346
+    }
+  ]
+}
